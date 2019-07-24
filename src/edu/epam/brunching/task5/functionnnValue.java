@@ -5,7 +5,7 @@ package edu.epam.brunching.task5;
 
 import java.util.*;
 
-public class functionValue {
+public class functionnnValue {
 
     public static void main(String[] args) {
 
